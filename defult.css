@@ -9,6 +9,10 @@ a {
 color: #22a316;
 }
 .banner {
-width: 200;
-height: 50;
+width: 1400;
+height: 175;
+position:absolute;
+}
+.notice {
+  color:#bcbcbc
 }
