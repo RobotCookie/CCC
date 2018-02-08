@@ -12,6 +12,7 @@ color: #22a316;
 width: 1400;
 height: 175;
 position:absolute;
+ align:center;
 }
 .notice {
   color:#bcbcbc
