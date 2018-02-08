@@ -26,3 +26,12 @@ background-repeat: repeat-x;
     font-size: 20px;
     cursor: pointer;
 }
+.level {
+  background-color: #020811;
+    color: #31b527;
+    padding: 15px 34px;
+    text-align: center;
+    display: inline-block;
+    font-size: 20px;
+    cursor: pointer;
+}
