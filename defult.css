@@ -35,3 +35,13 @@ background-repeat: repeat-x;
     font-size: 20px;
     cursor: pointer;
 }
+.chall {
+   background-color: #020811;
+    color: #ff0000;
+    padding: 15px 34px;
+    text-align: center;
+    display: inline-block;
+    font-size: 20px;
+    cursor: pointer;
+}
+
